@@ -1,7 +1,7 @@
 # Hello, I am Bibek
 
 
-#### I'm cuurently an undergraduate at UNO, double majoring in Computer Science and Math
+#### I'm currently an undergraduate at UNO, double majoring in Computer Science and Math
 
 # TO-DO's
 - Add tutorial/Refrences (First: Numpy)
