@@ -16,7 +16,7 @@
 
 <ul>
 <li><a href="https://github.com/bekiekB1/Tutorials" />Tutorials</li>
-<li><a href="https://github.com/bekiekB1/Tutorials" />Assignments</li>
+<li><a href="https://github.com/bekiekB1/11785CMU_Coursework" />Assignments</li>
 <li><a href="https://github.com/bekiekB1/Tutorials" />Recitation</li>
 <li><a href="https://github.com/bekiekB1/Tutorials" />Lectures Notes</li>
 </ul>
