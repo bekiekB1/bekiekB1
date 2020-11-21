@@ -4,9 +4,10 @@
 #### I'm currently an undergraduate at UNO, double majoring in Computer Science and Math
 
 # TO-DO's
-- Add tutorial/Refrences (First: Numpy)
-- Complete Support Vector machines and PCA from scratch
-- Run the initial model for Project and EDA on: Mining relationship between vegetation coverage and environmental variables
+- Add Links to Tutorials Read me profile
+- Organize Readme profile
+- Add 11785CMU course work
+
 
 ### Connect with me:
 
