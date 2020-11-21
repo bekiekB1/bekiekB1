@@ -3,10 +3,26 @@
 
 #### I'm currently an undergraduate at UNO, double majoring in Computer Science and Math
 
+
+
+
 # TO-DO's
 - Add Links to Tutorials Read me profile
 - Organize Readme profile
-- Add 11785CMU course work
+- 11785 CMU: Intro to Deep learning, fall 2020 
+
+<details>
+<summary> <b style = "font-size: 20px;">11785CMU Course Work</b></summary>
+
+<ul>
+<li><a href="https://github.com/bekiekB1/Tutorials" />Tutorials</li>
+<li><a href="https://github.com/bekiekB1/Tutorials" />Assignments</li>
+<li><a href="https://github.com/bekiekB1/Tutorials" />Recitation</li>
+<li><a href="https://github.com/bekiekB1/Tutorials" />Lectures Notes</li>
+</ul>
+</details>
+
+
 
 
 ### Connect with me:
