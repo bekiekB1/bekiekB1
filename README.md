@@ -8,12 +8,13 @@
 
 # TO-DO's
 - From Scratch pytorch(python instead of C++) for MLP Mnist || Continued from: https://github.com/bekiekB1/11785CMU_Coursework/tree/master/Assignments/Assignment_1/handout1/handout1
+- UML diagram and visualization chard for Autograd Functions and Classes
 - Add tutorial on how pytorch Autograd works
 - Organize Readme profile
 - 11785 CMU: Intro to Deep learning, fall 2020 
 
 # Compleated
-- Autograd of Pytorch: Automatic Differentation using Computation Graph(Recursive *DFS* for back propagation) :https://github.com/bekiekB1/11785CMU_Coursework/tree/master/Assignments/Assignment_1/handout1/handout1
+- Autograd of Pytorch: Automatic Differentation using Computation Graph(Recursive *DFS* for back propagation) https://github.com/bekiekB1/11785CMU_Coursework/tree/master/Assignments/Assignment_1/handout1/handout1
 - Tutorials Version 1.0 : Numpy, pytorch, google collab, and AWS EC2 https://github.com/bekiekB1/Tutorials/tree/master/Tutorials
 
 <details>
