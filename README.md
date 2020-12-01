@@ -8,7 +8,7 @@
 
 # TO-DO's
 - From Scratch pytorch(python instead of C++) for MLP Mnist || Continued from: https://github.com/bekiekB1/11785CMU_Coursework/tree/master/Assignments/Assignment_1/handout1/handout1
-- UML diagram and visualization chard for Autograd Functions and Classes
+- UML diagram and visualization chart for Autograd Functions and Classes
 - Add tutorial on how pytorch Autograd works
 - Organize Readme profile
 - 11785 CMU: Intro to Deep learning, fall 2020 
