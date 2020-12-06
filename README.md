@@ -23,6 +23,7 @@
    3. MLP
    4. Batchnorm
    5. SGD with momentum
+   <br>
 https://github.com/bekiekB1/11785CMU_Coursework/tree/master/Assignments/Assignment_1
 - Tutorials Version 1.0 : Numpy, pytorch, google collab, and AWS EC2 https://github.com/bekiekB1/Tutorials/tree/master/Tutorials
 
