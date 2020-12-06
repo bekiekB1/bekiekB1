@@ -7,8 +7,7 @@
 
 
 # TO-DO's
-- From Scratch pytorch for MLP Mnist with autograd|| Continued from: (*Remining: Implementing and Training with BatchNormalization*
-https://github.com/bekiekB1/11785CMU_Coursework/tree/master/Assignments/Assignment_1/handout1/handout1
+- Kaggle Frame Level Classification of Speech 
 - UML diagram and visualization chart for Autograd Functions and Classes
 - Add tutorial on how pytorch Autograd works
 - Organize Readme profile
@@ -16,9 +15,15 @@ https://github.com/bekiekB1/11785CMU_Coursework/tree/master/Assignments/Assignme
 - Update https
 
 # Compleated
-- Autograd of Pytorch: Automatic Differentation using Computation Graph(Recursive *DFS* for back propagation)
-- Trained MLP for MNIST digit Recognition with components element by constructing Computational Graph:
-https://github.com/bekiekB1/11785CMU_Coursework/tree/master/Assignments/Assignment_1/handout1/handout1
+- From scratch implementation of MNIST with Features:
+    <br>
+   **Automatic Differentiation** with computational Graph: **Autograd of Pytorch**
+   1. Sequential
+   2. Activation: ReLU 
+   3. MLP
+   4. Batchnorm
+   5. SGD with momentum
+https://github.com/bekiekB1/11785CMU_Coursework/tree/master/Assignments/Assignment_1
 - Tutorials Version 1.0 : Numpy, pytorch, google collab, and AWS EC2 https://github.com/bekiekB1/Tutorials/tree/master/Tutorials
 
 <details>
