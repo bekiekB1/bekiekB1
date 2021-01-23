@@ -7,14 +7,17 @@
 
 
 # TO-DO's
-- Kaggle Frame Level Classification of Speech 
-- UML diagram and visualization chart for Autograd Functions and Classes
+- Get cerification on Full Stack web Dev https://fullstackopen.com/en/ (Currently: Part1)
+- Use Resnet 50 for Face Verification [Kaggle_link](https://www.kaggle.com/c/11-785-fall-20-homework-2-part-2)
 - Add tutorial on how pytorch Autograd works
 - Organize Readme profile
 - 11785 CMU: Intro to Deep learning, fall 2020 
 - Update https
 
 # Compleated
+- Frame Level Classification of Speech
+- Full stack https://fullstackopen.com/en/  (Part 0)
+- From scratch implementation of CNN (AutoGrad)
 - From scratch implementation of MNIST with Features:
     <br>
    **Automatic Differentiation** with computational Graph: **Autograd of Pytorch**
@@ -23,6 +26,8 @@
    3. MLP
    4. Batchnorm
    5. SGD with momentum
+   6. Dropout
+   7. Adam
   <br>
   https://github.com/bekiekB1/11785CMU_Coursework/tree/master/Assignments/Assignment_1
 - Tutorials Version 1.0 : Numpy, pytorch, google collab, and AWS EC2 https://github.com/bekiekB1/Tutorials/tree/master/Tutorials
