@@ -75,14 +75,8 @@
 </details>
 
 [pytorch]: https://pytorch.org/
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/bibek-karki-532411196/
 [java]: https://www.java.com/en/list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.javascript.com/list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [python]: https://www.python.org
 [sklearn]: https://scikit-learn.org/stable/
 [tf]: https://www.tensorflow.org/
