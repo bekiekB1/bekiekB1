@@ -7,14 +7,15 @@
 
 
 # TO-DO's
-- Get cerification on Full Stack web Dev https://fullstackopen.com/en/ (Currently: Part1)
-- Use Resnet 50 for Face Verification [Kaggle_link](https://www.kaggle.com/c/11-785-fall-20-homework-2-part-2)
+- Extending the Django restaurant_tracker app: Change google map style after saving and create a db to record user and their db
 - Add tutorial on how pytorch Autograd works
 - Organize Readme profile
 - 11785 CMU: Intro to Deep learning, fall 2020 
 - Update https
 
 # Compleated
+- Django WebProject for user to see restaurants near them and saved them along with info
+- Use Resnet 50 for Face Verification [Kaggle_link](https://www.kaggle.com/c/11-785-fall-20-homework-2-part-2)
 - Frame Level Classification of Speech
 - Full stack https://fullstackopen.com/en/  (Part 0)
 - From scratch implementation of CNN (AutoGrad)
